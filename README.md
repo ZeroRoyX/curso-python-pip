@@ -9,8 +9,6 @@ python3 main.py
 
 # App Project
 
-Para correr el juego debes de seguir las siguientes instrucciones en la terminal:
-
 ```sh
 git clone
 cd app
